@@ -68,6 +68,7 @@ To boot / start | 起動（する） | きどう |
 To reboot / restart | 再起動（する） | さいきどう |
 To update | 更新（する） | こうしん |
 To register | 登録（する） | とうろく |
+To add | 追加 (する) | ついか |
 To edit | 編集（する） | へんしゅう |
 To delete / remove | 削除（する） | さくじょ |
 Automatic | 自動 | じどう |
